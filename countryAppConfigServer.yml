@@ -1,0 +1,7 @@
+configuration:  
+  projectName: countryAppConfigServer
+server:
+  port: 8002
+message:
+  greeting: Hello from the country configuration!
+  
