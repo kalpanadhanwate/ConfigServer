@@ -1,0 +1,6 @@
+configuration:  
+  projectName: aggregateConfigEurekaClient
+server:
+  port: 8003
+message:
+  greeting: Hello from the aggregate configuration!
